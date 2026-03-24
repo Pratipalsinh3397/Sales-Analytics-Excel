@@ -14,8 +14,8 @@ The reports focus on:
 
 ## 🎯 Project Objective
 
-1. Create a **_[customer performance report](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/Customer%20Performance%20Report.pdf)_**
-2. Conduct a comprehensive comparison between **_[customer performance report](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/Customer%20Performance%20Report.pdf)_**
+1. Create a **_[Customer Performance Report](Customer_Performance_Report.pdf)_**
+2. Conduct a comprehensive comparison between **_[Market Performance and Sales Targets](Market_Performance_vs_Target.pdf)_**
 
 ---
 
