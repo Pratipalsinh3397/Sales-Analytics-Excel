@@ -123,8 +123,3 @@ Highlighted leading markets contributing the most revenue.
 
 This project demonstrates the ability to transform raw sales data into meaningful insights through structured analysis and reporting. It highlights how data-driven approaches can support better business decisions, improve performance tracking, and uncover growth opportunities.
 
----
-
-## 📸 Dashboard Preview (Optional)
-
-*Add full dashboard screenshots here for better visualization of your project.*
